@@ -1,0 +1,6 @@
+*.zip
+build/
+campaignbay/
+app
+vendor/
+!data/templates/campaignbay/
